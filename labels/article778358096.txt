@@ -1,0 +1,7 @@
+Bandwagon,Reductio_ad_hitlerum
+Loaded_Language
+Causal_Oversimplification
+Name_Calling,Labeling
+Appeal_to_fear-prejudice
+Thought-terminating_Cliches
+Exaggeration,Minimisation

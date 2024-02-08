@@ -1,0 +1,10 @@
+Whataboutism,Straw_Men,Red_Herring
+Bandwagon,Reductio_ad_hitlerum
+Slogans
+Loaded_Language
+Thought-terminating_Cliches
+Repetition
+Appeal_to_fear-prejudice
+Doubt
+Exaggeration,Minimisation
+Flag-Waving

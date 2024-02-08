@@ -1,0 +1,9 @@
+Bandwagon,Reductio_ad_hitlerum
+Loaded_Language
+Appeal_to_fear-prejudice
+Exaggeration,Minimisation
+Flag-Waving
+Name_Calling,Labeling
+Thought-terminating_Cliches
+Appeal_to_Authority
+Doubt

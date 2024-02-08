@@ -1,0 +1,5 @@
+Whataboutism,Straw_Men,Red_Herring
+Repetition
+Causal_Oversimplification
+Exaggeration,Minimisation
+Black-and-White_Fallacy

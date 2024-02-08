@@ -1,0 +1,8 @@
+Whataboutism,Straw_Men,Red_Herring
+Loaded_Language
+Repetition
+Flag-Waving
+Name_Calling,Labeling
+Doubt
+Exaggeration,Minimisation
+Causal_Oversimplification

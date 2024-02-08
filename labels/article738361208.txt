@@ -1,0 +1,6 @@
+Whataboutism,Straw_Men,Red_Herring
+Loaded_Language
+Exaggeration,Minimisation
+Name_Calling,Labeling
+Appeal_to_Authority
+Slogans

@@ -1,0 +1,5 @@
+Loaded_Language
+Appeal_to_Authority
+Exaggeration,Minimisation
+Repetition
+Appeal_to_fear-prejudice
